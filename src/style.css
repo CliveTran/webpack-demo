@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Arial';
+    src: url('./arial.ttf') format('ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    font-family: 'Arial';
+    background: url('./icon.png');
+}
